@@ -7,7 +7,7 @@
 # dependencies
 /node_modules
 /bower_components
-
+firebase.json
 # misc
 /.sass-cache
 /connect.lock
