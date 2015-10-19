@@ -1,7 +1,8 @@
 # My-ember2-blog
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A blog example using ember 2.0
+
+Here is the [live example.](https://my-ember2-blog.firebaseapp.com/)
 
 ## Prerequisites
 
